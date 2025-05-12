@@ -1,2 +1,2 @@
 streamlit                 1.45.0    
-json5                     0.9.6
+
